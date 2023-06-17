@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chefName": "John Smith",
-    "chefPicture": "./chefs/chef_01.png",
+    "chefPicture": "/chefs/chef_01.png",
     "yearOfExperience": 10,
     "numOfRecipes": 5,
     "likes": 500,
@@ -110,7 +110,7 @@
   {
     "id": 3,
     "chefName": "Michael Anderson",
-    "chefPicture": "./chefs/chef_03.png",
+    "chefPicture": "/chefs/chef_03.png",
     "yearOfExperience": 12,
     "numOfRecipes": 6,
     "likes": 1200,
@@ -158,7 +158,7 @@
   {
     "id": 4,
     "chefName": "Sarah Thompson",
-    "chefPicture": "./chefs/chef_04.png",
+    "chefPicture": "/chefs/chef_04.png",
     "yearOfExperience": 6,
     "numOfRecipes": 4,
     "likes": 400,
@@ -212,7 +212,7 @@
   {
     "id": 5,
     "chefName": "David Roberts",
-    "chefPicture": "./chefs/chef_05.png",
+    "chefPicture": "/chefs/chef_05.png",
     "yearOfExperience": 15,
     "numOfRecipes": 10,
     "likes": 1500,
@@ -260,7 +260,7 @@
   {
     "id": 6,
     "chefName": "Maria Lopez",
-    "chefPicture": "./chefs/chef_06.png",
+    "chefPicture": "/chefs/chef_06.png",
     "yearOfExperience": 9,
     "numOfRecipes": 6,
     "likes": 950,
@@ -314,7 +314,7 @@
   {
     "id": 7,
     "chefName": "Robert Lee",
-    "chefPicture": "./chefs/chef_07.png",
+    "chefPicture": "/chefs/chef_07.png",
     "yearOfExperience": 11,
     "numOfRecipes": 8,
     "likes": 1100,
@@ -368,7 +368,7 @@
   {
     "id": 8,
     "chefName": "Jessica Davis",
-    "chefPicture": "./chefs/chef_08.png",
+    "chefPicture": "/chefs/chef_08.png",
     "yearOfExperience": 7,
     "numOfRecipes": 5,
     "likes": 600,
